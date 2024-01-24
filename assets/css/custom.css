@@ -303,6 +303,7 @@ body::-webkit-scrollbar-thumb{
 	color: var(--dark-color);
 	font-style: normal;
 	margin-top: 5px;
+	width: 100%;
 }
 
 .elisc_tm_sidebar .menu ul li a{
